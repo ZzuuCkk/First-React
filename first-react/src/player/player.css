@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.player-wrapper{
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: none;
+    box-shadow: 15px 10px 15px 1px silver;
+}
+
+.react-player{
+    margin: auto;
+    width: 200%;
+}
